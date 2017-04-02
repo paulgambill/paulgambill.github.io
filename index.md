@@ -12,30 +12,51 @@ I'm a product manager and entrepreneur who thrives on challenge and solving sign
 #### [Mentor Creative Group](https://www.mentorcg.com)
 *Project Manager / Director of Operations and Delivery | Dec, 2014 – Current*
 
-My role at Mentor is to manage our projects to delivery and facilitate everything else that keeps the business activities running smoothly. I've managed multiple projects with multiple clients in varying technology platforms, implemented tools and systems to help our teams communicate better, helped clients create new business models, designed technical architectures, debugged and updated iOS apps, located office space and built out the office infrastructure, researched and selected health insurance plans, developed a recruiting and interviewing process, purchased computer equipment, etc. I am most proud of taking a human- centered management approach to the way we work with our employees.
+* Delivered 10+ mobile and web apps
+* Served 30+ clients
+* Interviewed and hired 40+ staff and contractors
+
+My role at Mentor is to manage our projects to delivery and facilitate everything else that keeps the business activities running smoothly. I've delivered over 10 mobile and web applications while managing multiple projects with multiple clients in varying technology platforms. I've implemented tools and systems to help our teams communicate more efficiently, helped clients create new business models, designed technical architectures, debugged and updated iOS apps, located office space and built out the office infrastructure, researched and selected health insurance plans, developed a recruiting and interviewing process,  purchased computer equipment, etc.
 
 
 #### [General Assembly](https://generalassemb.ly/instructors/paul-gambill/6046)
 *Instructor - Agile, Scrum, and Kanban Course and Product Management
 Bootcamp | Aug, 2015 – Current*
 
-I teach others how to improve their project processes. My Agile overview class covers the basics from how to break down large projects into achievable tasks, how to visualize work in a kanban board, all the way up to the mechanics of Kanban, Scrum, and Scrumban. Students leave the class understanding how to design a process for their teams that will give the best chance of success. My Product Management Bootcamp is a full-day introduction for students on how to think about product development, what an MVP is and how to design and test it, and how to analyze their own context to create the best product possible.
+* 20+ classes taught
+* 250+ students learned Agile or Product Management skills
+
+I teach others how to improve their project processes. My Agile overview class covers the basics from how to break down large projects into achievable tasks, how to visualize work in a kanban board, all the way up to the mechanics of Kanban, Scrum, and Scrumban. More than 200 students have completed this class with an understanding of how to design a process for their teams that will give the best chance of success.
+
+My Product Management Bootcamp is a full-day introduction for students on how to think about product development, what an MVP is and how to design and test it, and how to analyze their own context to create the best product possible.
 
 
 #### [You Enjoy My Stickers](http://yemstickers.com)
 *Co-Founder | Sep, 2016 – Current*
 
-I co-founded You Enjoy My Stickers with the goal of creating sticker packs for iMessage that would delight and excite people. Our aim is to collaborate with our community to produce sticker themes that people are enthusiastic to use with their friends.
+* 4 apps on the Apple App Store
+* Over 3000 downloads
+
+As the technical co-founder of  You Enjoy My Stickers, our iMessage sticker design company has seen over 3000 downloads of our apps since launch. Our mission is to collaborate with our community to produce sticker packs that help people communicate exactly what they want to say. My role is to develop all the applications, manage them on the App Store, develop our website, and market our apps on social media.
 
 #### The Happy Crate
 *Founder | May, 2014 – Aug, 2015*
 
-I launched The Happy Crate in May 2014 because I saw a significant need to establish entertainment and educational niches in the brand-new legal marijuana market. My solution was The Happy Crate - a monthly subscription box of activities, snacks, and smoking accessories. I ran all aspects of the business including hiring and managing contractors, product sourcing, order fulfillment, website design, customer service, internet marketing, and business development. In the summer of 2015 I decided to move on to new challenges, and I sold The Happy Crate. It is currently being operated by its new owners.
+* Acquired 50+ monthly subscribing customers
+* 300+ shipments curated, bought, packaged, and shipped
+
+I launched The Happy Crate in May 2014 because I saw a significant need to establish entertainment and educational niches in the brand-new legal marijuana market. My solution was The Happy Crate - a monthly subscription box of activities, snacks, and smoking accessories. I ran all aspects of the business including hiring and managing contractors, product sourcing, order fulfillment, website design, customer service, internet marketing, and business development. In the summer of 2015 I decided to move on to new challenges, and I sold The Happy Crate.
 
 #### [Deloitte Digital](http://www.deloittedigital.com/us/)
 *Product and Project Manager | Jul, 2011 – Sep, 2014*
 
-As the Scrum Master for a 14 person cross-functional team, I coached in Agile processes and unblocked their way to delivering an iOS mobile point-of-sale application for a large athletics retailer in just 3 months time. After an initial pilot program in two stores, the client's executive leadership was thrilled with the results, and we began scaling the application for deployment to every store in the United States. As a response, I led the team in a strategic transition from Scrum to Kanban (Scrumban) so that we could remove unnecessary processes and better respond to changing needs from production. When Deloitte became a keynote sponsor of SXSW Interactive in 2014, our studio was asked to "make a mobile app to support the sponsorship." With that direction, I organized and led multiple creative strategy sessions of a team of volunteers. After deciding on our app experience, I put together back-end, Android, and iOS development and design teams. In under 12 weeks, we built gamified apps that incentivized users' attendance at events with Deloitte speakers.
+* 4 iOS and Android apps delivered for Fortune 100 companies
+* Designed, developed, and tested on multiple apps
+* Managed multiple teams of 5-15 people to complete all projects on schedule and budget
+
+As the Scrum Master for a 14 person cross-functional team, I coached in Agile processes and unblocked their way to delivering an iOS mobile point-of-sale application for Nike retail stores in just 3 months time. After an initial pilot program in two stores, Nike's executive leadership was thrilled with the results, and we began scaling the application for deployment to every store in the United States. As a response, I led the team in a strategic transition from Scrum to Kanban (Scrumban) so that we could remove unnecessary processes and better respond to changing needs from production.
+
+When Deloitte became a keynote sponsor of SXSW Interactive in 2014, our studio was asked to "make a mobile app to support the sponsorship." With that direction, I organized and led multiple creative strategy sessions of a team of volunteers. After deciding on our app experience, I put together back-end, Android, and iOS development and design teams. In under 12 weeks, we built gamified apps that incentivized users' attendance at events with Deloitte speakers.
 
 ## Projects
 
