@@ -14,7 +14,7 @@ I'm a product manager and entrepreneur who thrives on challenge and solving sign
 
 * Winner of [Blockchain for Social Impact Hackathon](https://media.consensys.net/announcing-the-winners-of-the-bsic-hackathon-808e0e1eb339)
 
-Nori is a company on a mission to reverse climate change by removing enough carbon dioxide from the atmosphere to lower the overall concentration of CO2 below 350 parts per million. We are building a platform that enables customers to pay other people to remove carbon dioxide from the atmosphere. 
+Nori is a company on a mission to reverse climate change by removing enough carbon dioxide from the atmosphere to lower the overall concentration of CO2 below 350 parts per million. We are building a platform that enables customers to pay other people to remove carbon dioxide from the atmosphere.
 
 #### [Mentor Creative Group](https://www.mentorcg.com)
 *Project Manager / Director of Operations and Delivery | Dec, 2014 – July 2017*
@@ -28,7 +28,7 @@ My role at Mentor is to manage our projects to delivery and facilitate everythin
 
 #### [General Assembly](https://generalassemb.ly/instructors/paul-gambill/6046)
 *Instructor - Agile, Scrum, and Kanban Course and Product Management
-Bootcamp | Aug, 2015 – Current*
+Bootcamp | Aug, 2015 – July 2017*
 
 * 20+ classes taught
 * 250+ students learned Agile or Product Management skills
@@ -39,7 +39,7 @@ My Product Management Bootcamp is a full-day introduction for students on how to
 
 
 #### [You Enjoy My Stickers](http://yemstickers.com)
-*Co-Founder | Sep, 2016 – Current*
+*Co-Founder | Sep, 2016 – August 2017*
 
 * 4 apps on the Apple App Store
 * Over 3000 downloads
