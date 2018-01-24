@@ -9,8 +9,15 @@ I'm a product manager and entrepreneur who thrives on challenge and solving sign
 
 ## Experience
 
+#### [Nori](https://nori.com)
+*Chief Executive Officer | August, 2017 – Current*
+
+* Winner of [Blockchain for Social Impact Hackathon](https://media.consensys.net/announcing-the-winners-of-the-bsic-hackathon-808e0e1eb339)
+
+Nori is a company on a mission to reverse climate change by removing enough carbon dioxide from the atmosphere to lower the overall concentration of CO2 below 350 parts per million. We are building a platform that enables customers to pay other people to remove carbon dioxide from the atmosphere. 
+
 #### [Mentor Creative Group](https://www.mentorcg.com)
-*Project Manager / Director of Operations and Delivery | Dec, 2014 – Current*
+*Project Manager / Director of Operations and Delivery | Dec, 2014 – July 2017*
 
 * Delivered 10+ mobile and web apps
 * Served 30+ clients
