@@ -5,7 +5,7 @@ title: Paul Gambill
 
 ## About me
 
-I'm a product manager and entrepreneur who thrives on challenge and solving significant problems. I utilize Agile and Lean principles to break down unnecessary systems and get to the root of issues early and often. I use my practical decision- making skills to balance the different and sometimes conflicting needs of business. My educational background is in both engineering and management, and it helps me understand problems from multiple perspectives. My business goals are social goals, because I believe for-profit business is the most effective way to achieve socially positive outcomes.
+I'm an entrepreneur who thrives on challenge and solving significant problems. I utilize Agile and Lean principles to break down unnecessary systems and get to the root of issues early and often. I use my practical decision- making skills to balance the different and sometimes conflicting needs of business. My educational background is in both engineering and management, and it helps me understand problems from multiple perspectives. My business goals are social goals, because I believe for-profit business is the most effective way to achieve socially positive outcomes.
 
 ## Experience
 
@@ -14,7 +14,7 @@ I'm a product manager and entrepreneur who thrives on challenge and solving sign
 
 * Winner of [Blockchain for Social Impact Hackathon](https://media.consensys.net/announcing-the-winners-of-the-bsic-hackathon-808e0e1eb339)
 
-Nori is a company on a mission to reverse climate change by removing enough carbon dioxide from the atmosphere to lower the overall concentration of CO2 below 350 parts per million. We are building a platform that enables customers to pay other people to remove carbon dioxide from the atmosphere.
+Nori is a company on a mission to reverse climate change by removing enough carbon dioxide from the atmosphere to lower the overall concentration of CO2 below 300 parts per million. We are building a platform that enables customers to pay other people to remove carbon dioxide from the atmosphere.
 
 #### [Mentor Creative Group](https://www.mentorcg.com)
 *Project Manager / Director of Operations and Delivery | Dec, 2014 – July 2017*
